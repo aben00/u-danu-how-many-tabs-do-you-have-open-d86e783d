@@ -1,0 +1,1 @@
+{"dependencies":{"tsx":"^4.19.0"},"description":"How Many Tabs Do You Have Open? — a single honest tab count (847) written to /output/entry.txt for the make.fun bounty.","license":"MIT","main":"main.ts","name":"u-danu-how-many-tabs-do-you-have-open-d86e783d","scripts":{"start":"npx tsx main.ts"},"type":"module","version":"1.0.0"}
